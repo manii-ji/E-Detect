@@ -173,16 +173,6 @@ This project demonstrates understanding of:
 * Machine learning integration
 * Live URL reputation APIs
 
----
 
-## 👤 Author
-
-**Manish Unecha**
-B.Tech CSE | Cybersecurity Enthusiast
-Project: *E-Detect — Phishing Detection Toolkit*
-
----
-
-> ⚠️ Disclaimer: This tool is for educational and defensive
 
 
